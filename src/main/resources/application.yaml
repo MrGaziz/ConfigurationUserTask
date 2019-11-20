@@ -1,0 +1,7 @@
+camunda.bpm:
+  admin-user:
+    id: gaziz
+    password: superSecret
+    firstName: Zizag
+  filter:
+    create: All tasks
